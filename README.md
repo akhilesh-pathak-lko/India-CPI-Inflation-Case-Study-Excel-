@@ -12,6 +12,8 @@ This project analyzes India’s Consumer Price Index (CPI) to understand inflati
 
 - Contribution is calculated by evaluating the underlying index values for broader category and should add to 100% when contribution from different broader categories are added.
 
+  ![Screenshot](https://github.com/akhilesh-pathak-lko/India-CPI-Inflation-Case-Study-Excel-/blob/main/Problem%201.png)
+
 ---
 
 2. A trend of Y-o-Y increase in CPI (rural + urban) inflation starting 2017 for the entire basket of products combined.
@@ -19,6 +21,8 @@ This project analyzes India’s Consumer Price Index (CPI) to understand inflati
 - Create a graph depicting the growth rate Y-o-Y and identify the year with highest inflation rate
 
 - Highlight the reason why the year has the highest inflation (based on research).
+
+  ![Screenshot](https://github.com/akhilesh-pathak-lko/India-CPI-Inflation-Case-Study-Excel-/blob/main/Problem%202.png)
 
 ---
 
@@ -28,11 +32,15 @@ This project analyzes India’s Consumer Price Index (CPI) to understand inflati
 
 - Identify the absolute changes in inflation over the same 12 months period and identify the biggest individual category contributor (only within broader food category) towards inflation
 
+  ![Screenshot](https://github.com/akhilesh-pathak-lko/India-CPI-Inflation-Case-Study-Excel-/blob/main/Problem%203.png)
+
 ---
 
 4. Investigate how the onset and progression of the COVID-19 pandemic affected inflation rates in India. Analyze the Impact of key pandemic milestone ( first lockdown) on the CPI inflation %, specially focus on categories like healthcare, food and essential services.
 
 Hint: You can consider Mar’20 as the onset of covid, and can compare the inflation trend before and after Mar’20 to see if there is a change in inflation % before and after.
+
+![Screenshot](https://github.com/akhilesh-pathak-lko/India-CPI-Inflation-Case-Study-Excel-/blob/main/Problem%204.png)
 
 ---
 
@@ -41,6 +49,8 @@ Hint: You can consider Mar’20 as the onset of covid, and can compare the infla
 - For the purpose of this analysis, focus only on the imported oil price fluctuations for years 2021 to 2023 (Month-on-month)
 
 - Identify trends in oil price change with change in inflation prices of all the categories and identify category whose inflation prices strongly changes with fluctuations in imported oil price (Hint: you can use =correl function)
+
+  ![Screenshot](https://github.com/akhilesh-pathak-lko/India-CPI-Inflation-Case-Study-Excel-/blob/main/Problem%205.png)
 
 
 ## Key Insights
